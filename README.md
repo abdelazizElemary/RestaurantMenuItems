@@ -9,15 +9,15 @@ This is a category managment system to mange restaurants and menu items belong t
 
 * To Run You will need:
 
-•	Python3 - with flask
+# Python3 - with flask
 
-•	Vagrant
+# Vagrant
 
-•	VirtualBox
+# VirtualBox
 
 * To Run
 
-Launch Vagrant VM by running vagrant up, you can the log in with vagrant
+# Launch Vagrant VM by running vagrant up, you can the log in with vagrant
 
 1- First, run database_setup.py to intiate the database tables.
 
