@@ -1,13 +1,13 @@
 **Resturant Menu Items Project**
 
-** Made by: Abdelaziz ELemary
+**Made by: Abdelaziz ELemary**
 
-*About:
+* About
 
 Resturant Menu Items is my second project on program [Full Stack Web Developer Nanodegree Program](https://eg.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 This is a category managment system to mange restaurants and menu items belong to each one.
 
-*To Run You will need:
+* To Run You will need:
 
 •	Python3 - with flask
 
@@ -15,7 +15,7 @@ This is a category managment system to mange restaurants and menu items belong t
 
 •	VirtualBox
 
-*To Run
+* To Run
 
 Launch Vagrant VM by running vagrant up, you can the log in with vagrant
 
