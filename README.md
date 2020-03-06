@@ -1,6 +1,6 @@
-**Resturant Menu Items Project
+**Resturant Menu Items Project**
 
-**Made by: Abdelaziz ELemary
+** Made by: Abdelaziz ELemary
 
 *About:
 
